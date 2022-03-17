@@ -1,7 +1,7 @@
 os
 time
 random
-numpy
+numpy==1.13.1
 math
 matplotlib
 logging
